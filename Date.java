@@ -1,15 +1,3 @@
-/*
-*Team information:
-* Eisa Taherkalateh (etaherk1)
-* Aeric Plitz (aplitz)
-* Raghav Aggarwal (raggar13)
-* Vansh Bagaria (vbagari1)
-* William Owen (wowen1)
-*
-* File description:
-* This is a linked list node
-* Each node stores a date and associated time for the student that has the linked list
-*/
 
 public class Date {
 	public String date;
