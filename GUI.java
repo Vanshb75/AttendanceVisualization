@@ -1,15 +1,3 @@
-/*
-*Team information:
-* Eisa Taherkalateh (etaherk1)
-* Aeric Plitz (aplitz)
-* Raghav Aggarwal (raggar13)
-* Vansh Bagaria (vbagari1)
-* William Owen (wowen1)
-*
-* Program Description: This part of the program is responsible for the graphics and user interface of the whole program. It is also
-* the part that connects the load, save, and add attendance to the the graphics. 
-*/
-//***************************************************
 import javax.swing.*;
 import javax.swing.table.*;
 import javax.swing.table.DefaultTableModel;
