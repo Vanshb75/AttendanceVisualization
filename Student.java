@@ -1,13 +1,4 @@
-/*
-*Team information:
-* Eisa Taherkalateh (etaherk1)
-* Aeric Plitz (aplitz)
-* Raghav Aggarwal (raggar13)
-* Vansh Bagaria (vbagari1)
-* William Owen (wowen1)
-* 
-* File description: Each student is a linked list, and correspond with each row in the jtable
-*/
+
 public class Student {
 	public int ASUID;
 	public String firstName;
