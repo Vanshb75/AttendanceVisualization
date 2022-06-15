@@ -1,16 +1,3 @@
-/*
-*Team information:
-* Eisa Taherkalateh (etaherk1)
-* Aeric Plitz (aplitz)
-* Raghav Aggarwal (raggar13)
-* Vansh Bagaria (vbagari1)
-* William Owen (wowen1)
-*
-* Class Description
-* this class is to support the add addtendence
-* adding the frame for date selector so that user can input the name of the new col
-* aswell giving the user to search a cvs file for getting attendence information from
-*/
 
 import java.awt.*;
 import java.awt.event.*;
