@@ -1,16 +1,3 @@
-/*
-*Team information:
-* Eisa Taherkalateh (etaherk1)
-* Aeric Plitz (aplitz)
-* Raghav Aggarwal (raggar13)
-* Vansh Bagaria (vbagari1)
-* William Owen (wowen1)
-*
-* File description: This file plots the data of students as required in the project as a feature. 
-*
-*/
-
-
 
 import org.jfree.chart.ChartFactory;
 import org.jfree.chart.ChartPanel;
